@@ -1,6 +1,8 @@
-# Market
+# Sim Companies API
 
-## Ressource offers
+This section contains an API documentation for the Web API provided by Sim Companies itself.
+
+## Get current resource offers
 
 Get current information about offers of one resource.
 
@@ -11,5 +13,4 @@ Get current information about offers of one resource.
 - `realm`: The [realm ID](./Realms.md) of the wanted market.
 - `resource`: The [resource ID](./ListOfResources.md) of the wanted market.
 
-### Response
-
+[Schema]()
